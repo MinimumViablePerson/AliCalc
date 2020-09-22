@@ -1,53 +1,53 @@
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin: 0px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0px;
 }
 
 .header {
-    background-color: #003366;
-    color: white;
-    padding: 1em;
+  background-color: #003366;
+  color: white;
+  padding: 1em;
 }
 
 .content {
-    padding: 1em;
+  padding: 1em;
 }
 
 .compoundInfoRow {
-    display: flex;
-    flex-wrap: wrap;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .compoundInfoBox {
-    /*flex-grow: 1;*/
-    margin: .5em;
-    padding: .5em;
-    border: 1px solid #CCC;
-    background-color: #EEE;
+  /*flex-grow: 1;*/
+  margin: 0.5em;
+  padding: 0.5em;
+  border: 1px solid #ccc;
+  background-color: #eee;
 }
 
 .compoundInfoBox label {
-    font-weight: 600;
+  font-weight: 600;
 }
 
 .compoundInfoBox input {
-    width: 90%;
+  width: 90%;
 }
 
 .compoundInfoBox .infoDetail {
-    font-size: 80%;
-    font-style: italic;
+  font-size: 80%;
+  font-style: italic;
 }
 
 .freezerBox {
-    padding: 1em;
+  padding: 1em;
 }
 
 .freezerBox img {
-    padding: .25em .25em;
-    height: 3em;
+  padding: 0.25em 0.25em;
+  height: 3em;
 }
 
-li{
-    margin-bottom: 1em;
+li {
+  margin-bottom: 1em;
 }
